@@ -47,9 +47,13 @@ Results
 The performance of each model was evaluated using accuracy and confusion matrix. The accuracies of the models are as follows:
 
 Naive Bayes: 95.28%
+
 Logistic Regression: 98.84%
+
 Decision Tree: 99.67%
+
 Random Forest: 99.10%
+
 Decision Tree achieved the highest accuracy, followed closely by Logistic Regression and Random Forest.
 
 Conclusion
